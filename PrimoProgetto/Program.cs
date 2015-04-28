@@ -11,6 +11,7 @@ namespace PrimoProgetto
         static void Main(string[] args)
         {
             Console.WriteLine("Ciao a tutti");
+            Console.WriteLine("Bella giornata");
             Console.ReadLine();
         }
     }
